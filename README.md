@@ -3,7 +3,7 @@
 Converting Angular Space of a 1D-Detector to a Reciprocal Space Map (RSM)
 
 
-![Reciprocal Space Maps from https://elib.uni-stuttgart.de/handle/11682/10086 ](rms.png)
+![Reciprocal Space Maps from https://elib.uni-stuttgart.de/handle/11682/10086 ](rsm.png)
 
 During the analysis of epitaxial thin films, one of the first things to study is the strain relative to the substrate. This is best  done by visualizing the peak positions of the thin film in relation to the peaks of the substrate the film was grown on. This is best done by a so called 'Reciprocal Space Map' or RSM for short. Here, one selects in-plane Bragg reflections of both substrate and a thin film and rasters them with an X-ray diffractometer. In this way, the amount of strain can be quantified. See e.g. one of my publications ( http://aip.scitation.org/doi/10.1063/1.5007680) for some examples.
 
